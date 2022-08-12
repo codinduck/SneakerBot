@@ -1,4 +1,4 @@
-# SneakerBot
+# SneakerBot By Keshav
 
 [![build, lint, test, deploy](https://github.com/samc621/SneakerBot/actions/workflows/build_lint_deploy.yml/badge.svg)](https://github.com/samc621/SneakerBot/actions/workflows/build_lint_deploy.yml)
 
